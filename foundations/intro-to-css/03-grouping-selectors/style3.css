@@ -1,0 +1,5 @@
+.black { background-color: black; color: aliceblue;}
+
+.yellow { background-color:yellow}
+
+.black, .yellow {font-family: fantasy; font-size: 36px;}
