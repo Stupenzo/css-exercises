@@ -1,0 +1,11 @@
+.odd { background-color: pink; font-family:Impact, 
+    Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.adjust-font-size {font-size: 36px}
+
+#two { color: royalblue; font-size: 69px; text-align: center;
+}
+
+#four { background-color: mediumspringgreen; 
+    font-weight: bolder;}
